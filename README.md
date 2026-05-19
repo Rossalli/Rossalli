@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bárbara Rossalli</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Tech Manager & Backend Developer</h3>
 
-- 🔭 I’m currently working on [CharlesCD](https://charlescd.io/)
+- 🔭 I’m currently working on [Stackspot](https://stackspot.com/en/)
 
-- 🌱 I’m currently learning **Golang**
-
-- 📝 I regularly write articles on [https://medium.com/garota-da-ti](https://medium.com/garota-da-ti)
-
-- 💬 Ask me about **Java, Kubernetes, Cloud, Golang, ArchUnit, Testcontainers**
+- 🌱 I’m currently learning **SDD & Harness Engineering**
 
 - 📫 How to reach me **barbara.rossalli@gmail.com**
 
@@ -20,7 +16,6 @@
 </p>
 
 <h3 align="center">Talks :left_speech_bubble:</h3>
-
 - Documentando a arquitetura do seu produto OpenSource **TDC Future, Sala ZUP (Dezembro, 2021)**
 - O que Cloud Native realmente significa? **TDC Future, Sala ZUP (Novembro, 2021)**
 - Como contribuir em um projeto complexo **ZUP Office Hours (Setembro, 2021)**
